@@ -28,3 +28,13 @@ Nikita Lohman is playing The Entertainer, by Scott Joplin
 Layla Heydt is playing and singing Angel Down, by Lady Gaga
 
 {% include youtubePlayer.html id="4Ff8cwjAY8s" %}
+
+### Joy
+Joy Webber is playing and singing Name of the Game, by ABBA
+
+{% include youtubePlayer.html id="w6gT4on3kog" %}
+
+### Chaz
+Chaz Webber is playing and singing Prelude/Angry Young Man, by Billy Joel
+
+{% include youtubePlayer.html id="GoTPuXf2sbQ" %}
