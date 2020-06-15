@@ -7,7 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Aiten 
 Aiten is playing golden slumbers by the beatles. 
 
-[![Watch the video](https://img.youtube.com/vi/89Y1r5pMgUM/maxresdefault.jpg)](https://youtu.be/89Y1r5pMgUM)
+{% include youtube.html id=89Y1r5pMgUM %}
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
