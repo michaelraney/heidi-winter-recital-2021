@@ -3,13 +3,13 @@
 This year we're doing things differently. Let's have fun!
 
 ### Aitan 
-Aitan is playing Golden Slumbers, by The Beatles.
+Aitan Katz is playing Golden Slumbers, by The Beatles.
 
 {% include youtubePlayer.html id="89Y1r5pMgUM" %}
 
 
 ### Tristan 
-Tristan is playing Classic Dance, by Faber & Faber. 
+Tristan Newhook is playing Classic Dance, by Faber & Faber. 
 
 {% include youtubePlayer.html id="QCwkCah5isM" %}
 
@@ -18,3 +18,13 @@ Sam McCrory is playing Reprise, by Joe Hisaishi
 
 {% include youtubePlayer.html id="i5CL783Gfxc" %}
 
+### Nikita
+Nikita Lohman is playing The Entertainer, by Scott Joplin
+
+{% include youtubePlayer.html id="K27S2QB5ePI" %}
+
+
+### Layla
+Layla Heydt is playing and singing Angel Down, by Lady Gaga
+
+{% include youtubePlayer.html id="4Ff8cwjAY8s" %}
