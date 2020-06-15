@@ -5,11 +5,11 @@ This year we're doing things differently. Let's have fun!
 ### Aiten 
 Aiten is playing golden slumbers by the beatles. Originally released in 1969
 
-{% include youtube.html id="89Y1r5pMgUM" %}
+{% include youtubePlayer.html id="89Y1r5pMgUM" %}
 
 
 ### Bob 
 Bob is playing an original piece by Pete the cat
 
-{% include youtube.html id="89Y1r5pMgUM" %}
+{% include youtubePlayer.html id="89Y1r5pMgUM" %}
 
