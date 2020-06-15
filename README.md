@@ -11,7 +11,10 @@ Aitan is playing Golden Slumbers, by The Beatles.
 ### Tristan 
 Tristan is playing Classic Dance, by Faber & Faber. 
 
-https://www.youtube.com/watch?v=QCwkCah5isM
-
 {% include youtubePlayer.html id="QCwkCah5isM" %}
+
+### Sam
+Sam McCrory is playing Reprise, by Joe Hisaishi
+
+{% include youtubePlayer.html id="i5CL783Gfxc" %}
 
