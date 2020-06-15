@@ -1,4 +1,4 @@
-# Welcome to Heidi's Spring Recital 2020
+# Welcome
 
 This year we're doing things differently. Let's have fun!
 
