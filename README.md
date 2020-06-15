@@ -2,14 +2,16 @@
 
 This year we're doing things differently. Let's have fun!
 
-### Aiten 
-Aiten is playing golden slumbers by the beatles. Originally released in 1969
+### Aitan 
+Aitan is playing Golden Slumbers, by The Beatles.
 
 {% include youtubePlayer.html id="89Y1r5pMgUM" %}
 
 
-### Bob 
-Bob is playing an original piece by Pete the cat
+### Tristan 
+Tristan is playing Classic Dance, by Faber & Faber. 
 
-{% include youtubePlayer.html id="89Y1r5pMgUM" %}
+https://www.youtube.com/watch?v=QCwkCah5isM
+
+{% include youtubePlayer.html id="QCwkCah5isM" %}
 
