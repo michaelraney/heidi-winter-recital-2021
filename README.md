@@ -2,6 +2,9 @@
 
 This year we're doing things differently. Let's have fun!
 
+{% include youtubePlayer.html id="myoxay7sCzM" %}
+
+
 ## Aitan 
 Aitan Katz is playing Golden Slumbers, by The Beatles.
 
@@ -54,9 +57,12 @@ Julia Pohl is playing and singing Lullaby and Goodnight, by Faber & Faber, with 
 
 {% include youtubePlayer.html id="i6uef4JCrRU" %}
 
-## Julia
-Oona Girton-Marshall is playing and singing No One Else, by Dave Malloy, from Natasha, Pierre andThe Great Comet of 1812
+## Oona
+Oona Girton-Marshall is playing and singing No One Else, by Dave Malloy, from Natasha, Pierre and The Great Comet of 1812
 
 {% include youtubePlayer.html id="gNiYopH5-Bg" %}
 
+## Madeleine
+Madeleine Sawyer is playing and singing Just Sing, by Justin Timberlake and Christophe Beck, from Trolls World Tou
 
+{% include youtubePlayer.html id="rWmFcs0dFMU" %}
