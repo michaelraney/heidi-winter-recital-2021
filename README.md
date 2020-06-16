@@ -4,12 +4,10 @@ This year we're doing things differently. Let's have fun!
 
 {% include youtubePlayer.html id="myoxay7sCzM" %}
 
-
 ## Aitan 
 Aitan Katz is playing Golden Slumbers, by The Beatles.
 
 {% include youtubePlayer.html id="89Y1r5pMgUM" %}
-
 
 ## Tristan 
 Tristan Newhook is playing Classic Dance, by Faber & Faber. 
