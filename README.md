@@ -26,7 +26,6 @@ Nikita Lohman is playing The Entertainer, by Scott Joplin
 
 {% include youtubePlayer.html id="K27S2QB5ePI" %}
 
-
 ## Layla
 Layla Heydt is playing and singing Angel Down, by Lady Gaga
 
@@ -77,3 +76,12 @@ Theo Jonson is playing Prelude, Opus 23, No. 5, by Sergei Rachmaninoff
 
 {% include youtubePlayer.html id="xlJ04-4WGgI" %}
 
+## Olyvia
+Olyvia Villani-Manjos is playing Dreams, by Fleetwood Mac
+
+{% include youtubePlayer.html id="4JXSIsctR58" %}
+
+## Coco
+Coco Villani-Manjos is playing and singing 1950, by King Princess
+
+{% include youtubePlayer.html id="yA_JTPKpJqM" %}
