@@ -62,7 +62,7 @@ Oona Girton-Marshall is playing and singing No One Else, by Dave Malloy, from Na
 {% include youtubePlayer.html id="gNiYopH5-Bg" %}
 
 ## Madeleine
-Madeleine Sawyer is playing and singing Just Sing, by Justin Timberlake and Christophe Beck, from Trolls World Tou
+Madeleine Sawyer is playing and singing Just Sing, by Justin Timberlake and Christophe Beck, from Trolls World Tour
 
 {% include youtubePlayer.html id="rWmFcs0dFMU" %}
 
