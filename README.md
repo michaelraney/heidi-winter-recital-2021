@@ -43,3 +43,20 @@ Chaz Webber is playing and singing Prelude/Angry Young Man, by Billy Joel
 Grace Webber is playing the final two movements of Sonata #4 in D Major, by Joseph Haydn
 
 {% include youtubePlayer.html id="Fs3_5GoS1tk" %}
+
+## Gavin
+Gavin Heydt is playing and singing Grenade, by Bruno Mars
+
+{% include youtubePlayer.html id="gls3od_ViPk" %}
+
+## Julia
+Julia Pohl is playing and singing Lullaby and Goodnight, by Faber & Faber, with her accompanist and dad, Dave Pohl
+
+{% include youtubePlayer.html id="i6uef4JCrRU" %}
+
+## Julia
+Oona Girton-Marshall is playing and singing No One Else, by Dave Malloy, from Natasha, Pierre andThe Great Comet of 1812
+
+{% include youtubePlayer.html id="gNiYopH5-Bg" %}
+
+
