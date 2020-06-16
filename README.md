@@ -66,3 +66,14 @@ Oona Girton-Marshall is playing and singing No One Else, by Dave Malloy, from Na
 Madeleine Sawyer is playing and singing Just Sing, by Justin Timberlake and Christophe Beck, from Trolls World Tou
 
 {% include youtubePlayer.html id="rWmFcs0dFMU" %}
+
+## Nathan
+Nathan Diamond is playing Seven German Dances, by Joseph Haydn
+
+{% include youtubePlayer.html id="2N9dyhW4coA" %}
+
+## Theo
+Theo Jonson is playing Prelude, Opus 23, No. 5, by Sergei Rachmaninoff
+
+{% include youtubePlayer.html id="xlJ04-4WGgI" %}
+
