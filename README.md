@@ -1,6 +1,6 @@
 # Welcome
 
-This year, we're doing things virtually. Let's have fun!
+This year, we're doing things virtually. Let's have fun! :musical_score:
 
 {% include youtubePlayer.html id="myoxay7sCzM" %}
 
