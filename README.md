@@ -95,6 +95,6 @@ This year, we're doing things virtually. Let's have fun!
 {% include youtubePlayer.html id="BdOzLkhdVtw" %}
 
 ## Theo
-> Theo Jonson is playing Prelude, Opus 23, No. 5, by Sergei Rachmaninoff
+> Theo Johnson is playing Prelude, Opus 23, No. 5, by Sergei Rachmaninoff
 
 {% include youtubePlayer.html id="xlJ04-4WGgI" %}
