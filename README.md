@@ -83,3 +83,14 @@ Olyvia Villani-Manjos is playing Dreams, by Fleetwood Mac
 Coco Villani-Manjos is playing and singing 1950, by King Princess
 
 {% include youtubePlayer.html id="yA_JTPKpJqM" %}
+
+## Anna
+Anna Higer-Paris is playing and singing Manhattan, by Sara Bareilles
+
+{% include youtubePlayer.html id="BdOzLkhdVtw" %}
+
+## Willem
+Willem Pohl is playing Dear Theodosia, by Lin Manuel Miranda, from Hamilton
+
+{% include youtubePlayer.html id="FH5wwN0UgGA" %}
+
