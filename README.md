@@ -54,47 +54,38 @@ This year, we're doing things virtually. Let's have fun!
 
 {% include youtubePlayer.html id="LBQFFA4Mubs" %}
 
-## Coco
-> Coco Villani-Manjos is playing and singing 1950, by King Princess
+## Anna
+> Anna Chamberlin is playing Exile by Taylor Swift
 
-{% include youtubePlayer.html id="yA_JTPKpJqM" %}
+{% include youtubePlayer.html id="KCyXvTuXtiI" %}
 
-## Chaz
-> Chaz Webber is playing and singing Prelude/Angry Young Man, by Billy Joel
+## Maritza
+> Maritza Lohman is playing Perfect by Ed Sheeran
 
-{% include youtubePlayer.html id="GoTPuXf2sbQ" %}
-
-## Sam
-> Sam McCrory is playing Reprise, by Joe Hisaishi
-
-{% include youtubePlayer.html id="i5CL783Gfxc" %}
-
-## Grace
-> Grace Webber is playing the final two movements of Sonata #4 in D Major, by Joseph Haydn
-
-{% include youtubePlayer.html id="Fs3_5GoS1tk" %}
+{% include youtubePlayer.html id="Waf-8E3gxAs" %}
 
 ## Nikita
-> Nikita Lohman is playing The Entertainer, by Scott Joplin
+> Nikita Lohman is playing Desafinado by Antonio Carlos Jobim
 
-{% include youtubePlayer.html id="K27S2QB5ePI" %}
+{% include youtubePlayer.html id="yQ1dIu2rA_s" %}
 
-## Olyvia
-> Olyvia Villani-Manjos is playing Dreams, by Fleetwood Mac
+## Willem
+> Willem Pohl is playing Burn by Lin Manuel-Miranda, from the musical Hamilton
 
-{% include youtubePlayer.html id="4JXSIsctR58" %}
+{% include youtubePlayer.html id="WViw9vI78QA" %}
 
-## Oona
-> Oona Girton-Marshall is playing and singing No One Else, by Dave Malloy, from Natasha, Pierre and The Great Comet of 1812
+## Sam
+> Sam McCrory is playing Life on Mars by David Bowie
 
-{% include youtubePlayer.html id="gNiYopH5-Bg" %}
+{% include youtubePlayer.html id="IOoAmqXQzIk" %}
 
-## Anna H.
-> Anna Higer-Paris is playing and singing Manhattan, by Sara Bareilles
+## Loghan
+> Loghan Weeda is playing Pachelbel’s Canon by Johann Pachelbe
 
-{% include youtubePlayer.html id="BdOzLkhdVtw" %}
+{% include youtubePlayer.html id="MAeE8Id4KXc" %}
 
-## Theo
-> Theo Johnson is playing Prelude, Opus 23, No. 5, by Sergei Rachmaninoff
+## Devin
+> Devin Weeda is playing Boulevard of Broken Dreams by Green Day
 
-{% include youtubePlayer.html id="xlJ04-4WGgI" %}
+{% include youtubePlayer.html id="99xX1Y7LnC8" %}
+
