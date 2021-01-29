@@ -20,7 +20,7 @@ Welcome to our Winter Recital!
 {% include youtubePlayer.html id="99xX1Y7LnC8" %}
 
 ## Loghan
-> Loghan Weeda is playing Pachelbel’s Canon by Johann Pachelbe
+> Loghan Weeda is playing Pachelbel’s Canon by Johann Pachelbel
 
 {% include youtubePlayer.html id="MAeE8Id4KXc" %}
 
