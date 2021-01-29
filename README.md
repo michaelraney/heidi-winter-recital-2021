@@ -9,6 +9,11 @@ Welcome to our Winter Recital!
 
 {% include youtubePlayer.html id="MA7rDWztDto" %}
 
+## Madeleine
+> Madeleine Sawyer is playing and singing Rainbow Connection by The Muppets
+
+{% include youtubePlayer.html id="ozE3P01rB1k" %}
+
 ## Aitan
 > Aitan Katz is playing Something by The Beatles
 
@@ -38,6 +43,11 @@ Welcome to our Winter Recital!
 > Layla Heydt is playing and singing Edge Of Great from Julie and the Phantoms
 
 {% include youtubePlayer.html id="fvDJ9Q9tF48" %}
+
+## Nathan
+> Nathan Diamond is playing Let’s Call the Whole Thing Off by George and Ira Gershwin
+
+{% include youtubePlayer.html id="92QpKAdIbGY" %}
 
 ## Chaz
 > Chaz Webber is playing the Mandalorian Theme Song by Ludwig Goransson
