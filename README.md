@@ -44,15 +44,15 @@ This year, we're doing things virtually. Let's have fun!
 
 {% include youtubePlayer.html id="6KRkYogBz1k" %}
 
-## Anna C.
-> Anna Chamberlin is playing Memories, by Maroon 5
+## Theo.
+> Theo Johnson is playing Prelude in C# Minor by Sergei Rachmaninoff
 
-{% include youtubePlayer.html id="AJMiDof4gBk" %}
+{% include youtubePlayer.html id="XNAU_oxtMBQ" %}
 
-## Gavin
-> Gavin Heydt is playing and singing Grenade, by Bruno Mars
+## Aitan
+> Aitan Katz is playing Something by The Beatles
 
-{% include youtubePlayer.html id="gls3od_ViPk" %}
+{% include youtubePlayer.html id="LBQFFA4Mubs" %}
 
 ## Coco
 > Coco Villani-Manjos is playing and singing 1950, by King Princess
