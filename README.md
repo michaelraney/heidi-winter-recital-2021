@@ -9,40 +9,40 @@ This year, we're doing things virtually. Let's have fun!
 
 {% include youtubePlayer.html id="MA7rDWztDto" %}
 
-## Madeleine
-> Madeleine Sawyer is playing and singing Just Sing, by Justin Timberlake and Christophe Beck, from Trolls World Tour
+## Chaz
+> Chaz Webber is playing the Mandalorian Theme Song by Ludwig Goransson
 
-{% include youtubePlayer.html id="rWmFcs0dFMU" %}
+{% include youtubePlayer.html id="anNvQ0yqwHQ" %}
 
-## Tristan 
-> Tristan Newhook is playing Classic Dance, by Faber & Faber 
+## Anna 
+> Anna Higer-Paris is playing and singing Champagne Problems by Taylor Swift
 
-{% include youtubePlayer.html id="QCwkCah5isM" %}
+{% include youtubePlayer.html id="LeMYPTDBJeA" %}
 
-## Aitan 
-> Aitan Katz is playing Golden Slumbers, by The Beatles
+## Joy 
+> Joy Webber is playing and singing Wake Up from Julie and the Phantoms
 
-{% include youtubePlayer.html id="89Y1r5pMgUM" %}
+{% include youtubePlayer.html id="AKaKm6YqkmU" %}
 
-## Willem
-> Willem Pohl is playing Dear Theodosia, by Lin Manuel Miranda, from Hamilton
+## Grace
+> Grace Webber is playing Country Dance by Ludwig van Beethoven
 
-{% include youtubePlayer.html id="FH5wwN0UgGA" %}
-
-## Nathan
-> Nathan Diamond is playing Seven German Dances, by Joseph Haydn
-
-{% include youtubePlayer.html id="2N9dyhW4coA" %}
-
-## Joy
-> Joy Webber is playing and singing Name of the Game, by ABBA
-
-{% include youtubePlayer.html id="w6gT4on3kog" %}
+{% include youtubePlayer.html id="RGCypzbIb2Q" %}
 
 ## Layla
-> Layla Heydt is playing and singing Angel Down, by Lady Gaga
+> Layla Heydt is playing and singing Edge Of Great from Julie and the Phantoms
 
-{% include youtubePlayer.html id="4Ff8cwjAY8s" %}
+{% include youtubePlayer.html id="fvDJ9Q9tF48" %}
+
+## Gavin
+> Gavin Heydt is playing and singing Clouds by Zach Sobiech
+
+{% include youtubePlayer.html id="-qyncySbUk8" %}
+
+## Oona
+> Oona Girton-Marshall is playing and singing Meadowlark by Stephen Schwartz, from the musical The Baker’s Wife
+
+{% include youtubePlayer.html id="6KRkYogBz1k" %}
 
 ## Anna C.
 > Anna Chamberlin is playing Memories, by Maroon 5
