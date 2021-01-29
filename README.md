@@ -1,8 +1,8 @@
 # Welcome
 
-This year, we're doing things virtually. Let's have fun!
+Welcome to our Winter Recital!
 
-{% include youtubePlayer.html id="myoxay7sCzM" %}
+{% include youtubePlayer.html id="lJ4zzS5WOZg" %}
 
 ## Ashley
 > Ashley Raney is playing The Ballad of Davy Jones, from Pirates of the Caribbean (in her first piano recital!)
