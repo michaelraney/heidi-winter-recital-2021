@@ -69,6 +69,11 @@ Welcome to our Winter Recital!
 
 {% include youtubePlayer.html id="IOoAmqXQzIk" %}
 
+## Coco
+> Coco Manjos is playing and singing Party Favor by Billie Eilish
+
+{% include youtubePlayer.html id="Pq5oM7pkBiI" %}
+
 ## Grace
 > Grace Webber is playing Country Dance by Ludwig van Beethoven
 
